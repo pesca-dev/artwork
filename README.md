@@ -1,3 +1,3 @@
 # PescaDev Artwork
 
-The logo for PescaDev as a vector image for being used in different PescaDev products.
+The logo for PescaDev as a vector image for use in different PescaDev products.
